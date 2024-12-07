@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram id="51zmUan4mFf6pz3q3UUt" name="InsureTech">
     <mxGraphModel dx="1434" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -276,6 +275,44 @@
         </mxCell>
         <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-15" value="3. Передача данных для взаиморасчётов&lt;br&gt;[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="E3Gxl8pQ-IwCaHuKUP9j-14" vertex="1" connectable="0">
           <mxGeometry x="-0.6601" y="34" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.671;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-11">
+          <mxGeometry x="0.0005" relative="1" as="geometry">
+            <mxPoint x="1780" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1650" y="320" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-3" value="5.1 Создать заявку на ОСАГО&lt;br&gt;[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="iIu9U6YLhVDRQxxrwCiv-2">
+          <mxGeometry x="-0.406" y="-11" relative="1" as="geometry">
+            <mxPoint x="210" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-4" value="5.2 Получить предложение по заявке на ОСАГО&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-11">
+          <mxGeometry x="-0.0486" y="-76" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-5" value="5. Создать заявку на ОСАГО&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uZ0quFO-MIEIE11IO5jD-3" target="E3Gxl8pQ-IwCaHuKUP9j-2">
+          <mxGeometry x="-0.2863" y="-50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="290" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-6" value="5.3 Получить предложение по заявке на ОСАГО&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-3">
+          <mxGeometry x="-0.2431" y="60" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="170" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
