@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram id="51zmUan4mFf6pz3q3UUt" name="InsureTech">
-    <mxGraphModel dx="1434" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,34 +73,22 @@
         </object>
         <object placeholders="1" c4Name="Системы страховых компаний" c4Type="Software System" c4Description="Системы страховых компаний, предоставляющие API для получения актуальных тарифов, андерайтинга и оформления страховых продуктов" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="1620" y="540" width="240" height="120" as="geometry" />
+            <mxGeometry x="1710" y="560" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Системы страховых компаний" c4Type="Software System" c4Description="Системы страховых компаний, предоставляющие API для получения актуальных тарифов, андерайтинга и оформления страховых продуктов" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="1630" y="550" width="240" height="120" as="geometry" />
+            <mxGeometry x="1720" y="570" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Системы страховых компаний" c4Type="Software System" c4Description="Предоставляют API для получения актуальных тарифов, андерайтинга и оформления страховых продуктов" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=9;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="1640" y="560" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="REST / SOAP / GraphQL" c4Description="1.2 Получение информации &#xa;по продуктам и тарифам" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-17">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-11" edge="1">
-            <mxGeometry x="0.1402" width="240" relative="1" as="geometry">
-              <mxPoint x="870" y="390" as="sourcePoint" />
-              <mxPoint x="1110" y="390" as="targetPoint" />
-              <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="1740" y="485" />
-              </Array>
-            </mxGeometry>
+            <mxGeometry x="1730" y="580" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ins-comp-settlement" c4Type="Container" c4Technology="Kotlin, SpringBoot" c4Description="Сервис для осуществления взаиморасчётов со страховыми компаниями" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="1060" y="670" width="240" height="120" as="geometry" />
+            <mxGeometry x="890" y="870" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Клиент" c4Type="Person" c4Description="Клиент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-23">
@@ -118,7 +106,7 @@
         </object>
         <object placeholders="1" c4Type="ins-comp-settlement-db" c4Container="Container" c4Technology="PostgreSQL" c4Description="БД используется для хранения данных об оформленных страховках и условиях взаиморасчётов с клиентами" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-28">
           <mxCell style="shape=cylinder3;size=8.50981588924617;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="1060" y="910" width="240" height="120" as="geometry" />
+            <mxGeometry x="490" y="870" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="TCP" c4Description="Работа с данными" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-29">
@@ -126,19 +114,6 @@
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="740" y="800" as="sourcePoint" />
               <mxPoint x="740" y="920" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="REST / SOAP / GraphQL" c4Description="3.1 Передача данных для взаиморасчётов" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="uZ0quFO-MIEIE11IO5jD-32">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-11" edge="1">
-            <mxGeometry x="0.5298" y="5" width="240" relative="1" as="geometry">
-              <mxPoint x="1160" y="500" as="sourcePoint" />
-              <mxPoint x="1350" y="590" as="targetPoint" />
-              <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="1450" y="485" />
-                <mxPoint x="1450" y="635" />
-              </Array>
             </mxGeometry>
           </mxCell>
         </object>
@@ -204,7 +179,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-10" value="1.3 Получение информации&lt;br&gt;&lt;div&gt;по продуктам и тарифам&lt;/div&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-3" edge="1">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-10" value="1.6 Получение информации&lt;br&gt;&lt;div&gt;по продуктам и тарифам&lt;/div&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-3" edge="1">
           <mxGeometry x="-0.0151" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="910" y="450" />
@@ -212,15 +187,15 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-11" value="2.1 Получение информации&lt;br&gt;&lt;div&gt;об оформленных страховках&lt;br&gt;[REST]&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-19" edge="1">
-          <mxGeometry x="0.6089" y="17" relative="1" as="geometry">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-11" value="2.1 Получение информации&lt;br&gt;&lt;div&gt;об оформленных страховках&lt;br&gt;[Kafka]&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-19" edge="1">
+          <mxGeometry x="0.5677" y="-14" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="620" />
+              <mxPoint x="850" y="730" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-16" value="4.1 Получение информации о клиентах" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-16" value="4.1 Получение информации о клиентах&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
           <mxGeometry x="-0.0022" y="15" relative="1" as="geometry">
             <mxPoint x="730" y="450" as="targetPoint" />
             <Array as="points">
@@ -229,23 +204,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-2" value="&lt;div&gt;Event-Streaming&lt;/div&gt;&lt;div&gt;[container: Apache Nifi, Zookeeper]&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-2" value="&lt;div&gt;Event-Streaming&lt;/div&gt;&lt;div&gt;[container: Apache Kafka]&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1060" y="455" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-7" value="&lt;div&gt;2. Предоставление информации &lt;br&gt;&lt;/div&gt;&lt;div&gt;об оформленных страховках&lt;br&gt;&lt;/div&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uZ0quFO-MIEIE11IO5jD-3" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
-          <mxGeometry x="-0.4023" y="69" relative="1" as="geometry">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-7" value="&lt;div&gt;2. Предоставление информации &lt;br&gt;&lt;/div&gt;&lt;div&gt;об оформленных страховках&lt;br&gt;&lt;/div&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uZ0quFO-MIEIE11IO5jD-3" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
+          <mxGeometry x="-0.4007" y="69" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="750" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-8" value="4. Обновление информации о клиентах &lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckVUTfoMV_SZnMC_Z-Nl-1" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
-          <mxGeometry x="0.003" relative="1" as="geometry">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-8" value="4. Обновление информации о клиентах &lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckVUTfoMV_SZnMC_Z-Nl-1" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
+          <mxGeometry x="0.0048" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-9" value="1. Запрос информации &lt;br&gt;по продуктам и тарифам&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.997;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uZ0quFO-MIEIE11IO5jD-3" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-9" value="1. Запрос информации &lt;br&gt;по продуктам и тарифам&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.997;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uZ0quFO-MIEIE11IO5jD-3" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
           <mxGeometry x="-0.1852" y="46" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="910" y="590" />
@@ -253,54 +228,51 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-12" value="1.1 Запрос информации&lt;br&gt;&lt;div&gt;по продуктам и тарифам&lt;/div&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uZ0quFO-MIEIE11IO5jD-19" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
-          <mxGeometry x="0.0168" y="-13" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-13" value="&lt;br&gt;1.4 Получение информации&lt;br&gt;по продуктам и тарифам&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-19" edge="1">
-          <mxGeometry x="-0.0011" relative="1" as="geometry">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-13" value="&lt;br&gt;1.5 Получение информации&lt;br&gt;по продуктам и тарифам&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-19" edge="1">
+          <mxGeometry x="0.5742" y="-12" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1330" y="560" />
+              <mxPoint x="1210" y="610" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.946;entryY=0.928;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uZ0quFO-MIEIE11IO5jD-19" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.595;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.983;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uZ0quFO-MIEIE11IO5jD-19" target="E3Gxl8pQ-IwCaHuKUP9j-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1570" y="780" />
+              <mxPoint x="1260" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-15" value="3. Передача данных для взаиморасчётов&lt;br&gt;[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="E3Gxl8pQ-IwCaHuKUP9j-14" vertex="1" connectable="0">
+        <mxCell id="E3Gxl8pQ-IwCaHuKUP9j-15" value="3. Передача данных для взаиморасчётов&lt;br&gt;[Kafka]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="E3Gxl8pQ-IwCaHuKUP9j-14" vertex="1" connectable="0">
           <mxGeometry x="-0.6601" y="34" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="100" y="64" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIu9U6YLhVDRQxxrwCiv-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.671;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-11">
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="iIu9U6YLhVDRQxxrwCiv-14">
           <mxGeometry x="0.0005" relative="1" as="geometry">
             <mxPoint x="1780" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1650" y="320" />
+              <mxPoint x="1370" y="350" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIu9U6YLhVDRQxxrwCiv-3" value="5.1 Создать заявку на ОСАГО&lt;br&gt;[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="iIu9U6YLhVDRQxxrwCiv-2">
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-3" value="5.1 Создать заявку на ОСАГО&lt;br&gt;[Kafka]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="iIu9U6YLhVDRQxxrwCiv-2">
           <mxGeometry x="-0.406" y="-11" relative="1" as="geometry">
-            <mxPoint x="210" y="-1" as="offset" />
+            <mxPoint x="72" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIu9U6YLhVDRQxxrwCiv-4" value="5.2 Получить предложение по заявке на ОСАГО&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-11">
-          <mxGeometry x="-0.0486" y="-76" relative="1" as="geometry">
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-4" value="5.4 Получить предложение по заявке на ОСАГО&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.604;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.635;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iIu9U6YLhVDRQxxrwCiv-14" target="E3Gxl8pQ-IwCaHuKUP9j-2">
+          <mxGeometry x="0.0703" y="33" relative="1" as="geometry">
+            <mxPoint x="1580" y="360" as="sourcePoint" />
+            <mxPoint x="1170" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1810" y="180" />
+              <mxPoint x="1400" y="270" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIu9U6YLhVDRQxxrwCiv-5" value="5. Создать заявку на ОСАГО&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uZ0quFO-MIEIE11IO5jD-3" target="E3Gxl8pQ-IwCaHuKUP9j-2">
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-5" value="5. Создать заявку на ОСАГО&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uZ0quFO-MIEIE11IO5jD-3" target="E3Gxl8pQ-IwCaHuKUP9j-2">
           <mxGeometry x="-0.2863" y="-50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="290" />
@@ -308,12 +280,114 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIu9U6YLhVDRQxxrwCiv-6" value="5.3 Получить предложение по заявке на ОСАГО&lt;br&gt;[REST]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-3">
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-6" value="5.5 Получить предложение по заявке на ОСАГО&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="uZ0quFO-MIEIE11IO5jD-3">
           <mxGeometry x="-0.2431" y="60" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="170" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="ins-product-aggregator" c4Type="Container" c4Technology="Apache Nifi" c4Description="Сервис для учёта клиентских данных" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="iIu9U6YLhVDRQxxrwCiv-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="1300" y="700" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-9" value="1.2 Получение информации&lt;br&gt;по продуктам и тарифам&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="iIu9U6YLhVDRQxxrwCiv-7">
+          <mxGeometry x="0.9152" y="40" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-10" value="3.1 Передача данных &lt;br&gt;для взаиморасчётов&lt;br&gt;[Kafka]" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="E3Gxl8pQ-IwCaHuKUP9j-2" target="iIu9U6YLhVDRQxxrwCiv-7">
+          <mxGeometry x="0.2147" y="-19" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-12" value="&lt;br&gt;1.1 Запрос информации&lt;br&gt;&lt;div&gt;по продуктам и тарифам&lt;/div&gt;[Kafka]&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.39;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uZ0quFO-MIEIE11IO5jD-19" target="E3Gxl8pQ-IwCaHuKUP9j-2">
+          <mxGeometry x="-0.1253" y="-38" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="710" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="ins-osago-aggregator" c4Type="Container" c4Technology="Apache Nifi" c4Description="Сервис обработки заявок на ОСАГО" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="iIu9U6YLhVDRQxxrwCiv-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="1310" y="440" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="iIu9U6YLhVDRQxxrwCiv-14" target="uZ0quFO-MIEIE11IO5jD-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-19" value="5.3 Получить предложение по заявке на ОСАГО&lt;br&gt;[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="iIu9U6YLhVDRQxxrwCiv-16">
+          <mxGeometry x="-0.1189" y="-2" relative="1" as="geometry">
+            <mxPoint x="16" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.542;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iIu9U6YLhVDRQxxrwCiv-14" target="uZ0quFO-MIEIE11IO5jD-11">
+          <mxGeometry x="0.0005" relative="1" as="geometry">
+            <mxPoint x="1217" y="465" as="sourcePoint" />
+            <mxPoint x="1530" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="320" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-18" value="5.2 Создать заявку на ОСАГО&lt;br&gt;[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="iIu9U6YLhVDRQxxrwCiv-17">
+          <mxGeometry x="-0.406" y="-11" relative="1" as="geometry">
+            <mxPoint x="75" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-20" value="&lt;br&gt;1.3 Получение информации&lt;br&gt;по продуктам и тарифам&lt;br&gt;[REST]&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="iIu9U6YLhVDRQxxrwCiv-7" target="uZ0quFO-MIEIE11IO5jD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1830" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-21" value="&lt;br&gt;3.1 Передача данных &lt;br&gt;для взаиморасчётов&lt;br&gt;[REST]&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="iIu9U6YLhVDRQxxrwCiv-7" target="uZ0quFO-MIEIE11IO5jD-13">
+          <mxGeometry x="-0.3609" y="16" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1850" y="1030" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-23" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=quota" vertex="1" parent="1">
+          <mxGeometry x="890" y="208" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-24" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=job" vertex="1" parent="1">
+          <mxGeometry x="470" y="407" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-30" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=job" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-31" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_role" vertex="1" parent="1">
+          <mxGeometry x="1290" y="420" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-32" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_role" vertex="1" parent="1">
+          <mxGeometry x="1280" y="680" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-33" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=deploy" vertex="1" parent="1">
+          <mxGeometry x="1290" y="468" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-34" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=deploy" vertex="1" parent="1">
+          <mxGeometry x="1280" y="728" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-35" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=quota" vertex="1" parent="1">
+          <mxGeometry x="470" y="455" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.87;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iIu9U6YLhVDRQxxrwCiv-7" target="E3Gxl8pQ-IwCaHuKUP9j-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIu9U6YLhVDRQxxrwCiv-37" value="1.4 Получение информации&lt;br&gt;по продуктам и тарифам&lt;br&gt;[Kafka]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="iIu9U6YLhVDRQxxrwCiv-36">
+          <mxGeometry x="0.0188" y="-2" relative="1" as="geometry">
+            <mxPoint x="74" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
